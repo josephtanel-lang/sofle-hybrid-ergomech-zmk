@@ -2,6 +2,21 @@
 
 Go here: https://nickcoutsos.github.io/keymap-editor/
 
+## Flashing Instructions
+
+1. Download Zip file from the keymap editor
+
+<img width="1532" height="440" alt="CleanShot 2026-07-26 at 14 38 13@2x" src="https://github.com/user-attachments/assets/db9dd4da-6968-450a-b847-a2399f53fba8" />
+
+
+2. Plug in left side via USB-C cable to laptop
+
+3. Double tap small white reset button on keyboard, the keyboard should they show up like a USB drive on your computer
+
+4. Open the zip file and drag the _left file to the USB device
+
+5. Repeat with the right side
+
 The sofle Hybrid now can work with zmk studio. 
 Here is how you can use it: visit https://zmk.studio/ using Edge or Chrome.
 Locate the `studio_unlock` button (in this case, it's on the top left conner of the `lower` layer, you can see the keymap below to see it).
