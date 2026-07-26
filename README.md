@@ -1,4 +1,7 @@
 # The Sofle hybrid is now fully supported by ZMK Studio
+
+Go here: https://nickcoutsos.github.io/keymap-editor/
+
 The sofle Hybrid now can work with zmk studio. 
 Here is how you can use it: visit https://zmk.studio/ using Edge or Chrome.
 Locate the `studio_unlock` button (in this case, it's on the top left conner of the `lower` layer, you can see the keymap below to see it).
